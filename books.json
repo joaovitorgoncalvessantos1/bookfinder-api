@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "ficcao",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+    },
+    {
+      "id": 2,
+      "title": "O Senhor dos Anéis",
+      "author": "J.R.R. Tolkien",
+      "genre": "fantasia",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231856-L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Orgulho e Preconceito",
+      "author": "Jane Austen",
+      "genre": "romance",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8091016-L.jpg"
+    }
+  ]
+}
